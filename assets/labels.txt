@@ -1,0 +1,9 @@
+0 Tomato
+1 Potato
+2 Spinach
+3 Egg
+4 Onion
+5 Spices
+6 Yogurt
+7 Flour
+8 Paneer

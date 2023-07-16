@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>522878676397-jrho7u368n3njud1gj01vbftdgm6dre0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.522878676397-jrho7u368n3njud1gj01vbftdgm6dre0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAS_XWZxXRIUiVDoA_6IXUbNh9eRFCqH7s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>522878676397</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.personalrecipeassistant1</string>
+	<key>PROJECT_ID</key>
+	<string>personal-recipe-assitant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>personal-recipe-assitant.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:522878676397:ios:73ea1ba8b22ceb9bcbc524</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522878676397",
+    "project_id": "personal-recipe-assitant",
+    "storage_bucket": "personal-recipe-assitant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522878676397:android:db9805d331a27aaccbc524",
+        "android_client_info": {
+          "package_name": "com.example.personalrecipeassistant1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522878676397-ntbui3057h491b3t3jetdj948mp0tv54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPiJKxKVgEaLVc2q98VRiAIzv9ioczugU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522878676397-ntbui3057h491b3t3jetdj948mp0tv54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

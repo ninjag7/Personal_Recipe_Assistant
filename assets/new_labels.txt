@@ -1,0 +1,5 @@
+Egg
+Meat
+Rice
+VegFruits
+Fried
